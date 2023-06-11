@@ -1,5 +1,11 @@
 # *Neutron Calibration in DUNE*
 
+This organization contains several repositories related to the neutron calibration effort on DUNE.  Some packages of note are; [Arrakis](), [BLIP](), ...
+
+
+#### Developers
+Nicholas Carrara, UC Davis, Dept. of Physics,
+
 <!--
 
 **Here are some ideas to get you started:**
