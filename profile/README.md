@@ -5,6 +5,7 @@ This organization contains several repositories related to the neutron calibrati
 
 #### Developers
 Nicholas Carrara, UC Davis, Dept. of Physics,
+David Rivera, LANL,
 
 <!--
 
