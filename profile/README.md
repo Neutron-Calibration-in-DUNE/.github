@@ -1,6 +1,6 @@
 # *Neutron Calibration in DUNE*
 
-This organization contains several repositories related to the neutron calibration effort on DUNE.  Some packages of note are; [Arrakis](), [BLIP](), ...
+This organization contains several repositories related to the neutron calibration effort on DUNE.  Some packages of note are; [Arrakis](https://github.com/Neutron-Calibration-in-DUNE/Arrakis), [BLIP](https://github.com/Neutron-Calibration-in-DUNE/Blip), and [ArrakisND](https://github.com/Neutron-Calibration-in-DUNE/ArrakisND).  Other tools are the [NeutronCaptureGammaCascade](https://github.com/Neutron-Calibration-in-DUNE/NeutronCaptureGammaCascade) repo which code for generating the correct gamma cascades within Geant4 (and edep-sim), as well as the [NeutronArgonBenchmarks](https://github.com/Neutron-Calibration-in-DUNE/NeutronArgonBenchmarks) repo which contains a custom Geant4 implementation for simulating various aspects of neutron interactions on Argon.
 
 
 #### Developers
