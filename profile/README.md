@@ -3,7 +3,7 @@
 This organization contains several repositories related to the neutron calibration effort on DUNE.  Some packages of note are; [Arrakis](https://github.com/Neutron-Calibration-in-DUNE/Arrakis), [BLIP](https://github.com/Neutron-Calibration-in-DUNE/Blip), and [ArrakisND](https://github.com/Neutron-Calibration-in-DUNE/ArrakisND).  Other tools are the [NeutronCaptureGammaCascade](https://github.com/Neutron-Calibration-in-DUNE/NeutronCaptureGammaCascade) repo which code for generating the correct gamma cascades within Geant4 (and edep-sim), as well as the [NeutronArgonBenchmarks](https://github.com/Neutron-Calibration-in-DUNE/NeutronArgonBenchmarks) repo which contains a custom Geant4 implementation for simulating various aspects of neutron interactions on Argon.
 
 ## Documentation
-Documentation for [BLIP](https://github.com/Neutron-Calibration-in-DUNE/Blip) can be found at [https://neutron-calibration-in-dune.github.io/Blip/](https://neutron-calibration-in-dune.github.io/Blip/).
+Documentation for [BLIP](https://github.com/Neutron-Calibration-in-DUNE/Blip) can be found at [![Documentation Status](https://readthedocs.org/projects/blip-dune/badge/?version=latest)](https://blip-dune.readthedocs.io/en/latest/?badge=latest).
 
 ## Datasets
 Datasets developed for neutron calibration studies and Blip can be found at the corresponding [OSF site](https://osf.io/38zck/?view_only=65f6fec31faa4354951b41b48d50ad35).
