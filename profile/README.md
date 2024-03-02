@@ -11,7 +11,7 @@ Datasets developed for neutron calibration studies and Blip can be found at the 
 [![OSF data](https://img.shields.io/badge/OSF-DOI%2010.17605%2FOSF.IO%38ZCK-orange)](https://osf.io/38zck/?view_only=65f6fec31faa4354951b41b48d50ad35)
 
 ## CI
-ArrakisND CI Status [![ArrakisCI](https://github.com/BlipDev/ArrakisCI/actions/workflows/arrakis-ci.yml/badge.svg?branch=master)](https://github.com/BlipDev/ArrakisCI/actions/workflows/arrakis-ci.yml)
+ArrakisND CI Status [![ARRAKIS CI](https://github.com/BlipDev/ArrakisCI/actions/workflows/arrakis-ci.yml/badge.svg)](https://github.com/BlipDev/ArrakisCI/actions/workflows/arrakis-ci.yml)
 
 #### Developers
 Nicholas Carrara, UC Davis, Dept. of Physics [nmcarrara@ucdavis.edu],
